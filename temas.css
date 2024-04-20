@@ -1,9 +1,12 @@
 .contenedor{
 
 width: 200%;
-height: 1500px;                                                           
+height: 1100px;                                                           
+background-color: rgba(41, 233, 233, 0.699);
+display: flex;
+flex-direction: column;
 
-background-color: aqua;
+
 }
 .encabezado{
 width: 100%;
@@ -12,21 +15,10 @@ background-color: blueviolet;
 
 }
 
-.sociales{
-width: 100% ;
-height: 200px;
-background-color: rgb(196, 255, 228); 
-}
-.tecnologia{
+.Sociales{
 width: 100%;
-height: 200px; ;
-background-color: rgb(192, 60, 60);
-
-}
-.ingles{
-width: 100% ;
 height: 200px;
-background-color: rgb(59, 196, 70);
-}
+background-color: rgb(153, 10, 93);
 
+}
 
